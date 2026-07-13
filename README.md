@@ -175,12 +175,13 @@ Go to:
 
 ---
 
-This workshop was conducted in Malayalam under **ISTE Student Chapter, Government Engineering College Barton Hill (ISTE SC GECB)**.
+This workshop was conducted in Malayalam under **ISTE Student Chapter, Government Engineering College Barton Hill (ISTE SC GECB)**. 
 
-**Workshop Instructor:** Nithin A  
-GitHub: https://github.com/Underemployed  
-Portfolio: https://underemployed.github.io/
+https://istegecb.in/check-us-out
+
 
 If you found this session useful, consider sharing it with friends who are beginning their software development journey.
+
+
 
 #Git #GitHub #GitTutorial #GitHubTutorial #GitMalayalam #GitHubMalayalam #VersionControl #OpenSource #Programming #SoftwareDevelopment #Coding #ISTEGECB #KeralaTech
