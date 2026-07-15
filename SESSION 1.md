@@ -9,7 +9,7 @@ To follow the workshop effectively, use this guide alongside the video.
 🔗 Workshop Resources: <br>
 • GitHub Workshop Repository: https://github.com/Underemployed/gitflow4 <br>
 •  Session 1 Notes:
-https://github.com/Underemployed/gitflow4/blob/main/README.md <br>
+https://github.com/Underemployed/gitflow4/blob/main/SESSION%201.md <br>
 •  Session 2 Notes:
 https://github.com/Underemployed/gitflow4/blob/main/SESSION%202.md <br>
 
